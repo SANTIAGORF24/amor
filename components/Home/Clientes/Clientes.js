@@ -17,7 +17,7 @@ const CuponesDeAmor = () => {
     {
       titulo: "Cupón para omitir drama",
       descripcion: "Usa este cupón para evitar dramas innecesarios",
-      validez: "2 veces",
+      validez: "1 vez",
     },
     {
       titulo: "Cupón para decir sí",
