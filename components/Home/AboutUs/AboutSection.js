@@ -72,6 +72,47 @@ function AboutSection() {
               height={500}
             />
           </SwiperSlide>
+          <SwiperSlide>
+            <Image
+              src="/assets/img/vertical/pregunta 1.jpg"
+              alt="Slide 5"
+              width={500}
+              height={500}
+            />
+          </SwiperSlide>
+                          <SwiperSlide>
+            <Image
+              src="/assets/img/vertical/Pregunta 2.jpg"
+              alt="Slide 5"
+              width={500}
+              height={500}
+            />
+          </SwiperSlide>
+                                    <SwiperSlide>
+            <Image
+              src="/assets/img/vertical/Pregunta 3.jpg"
+              alt="Slide 5"
+              width={500}
+              height={500}
+            />
+          </SwiperSlide>
+                                          <SwiperSlide>
+            <Image
+              src="/assets/img/vertical/Pregunta 4.jpg"
+              alt="Slide 5"
+              width={500}
+              height={500}
+            />
+          </SwiperSlide>
+                                          <SwiperSlide>
+            <Image
+              src="/assets/img/vertical/Pregunta 5.jpg"
+              alt="Slide 5"
+              width={500}
+              height={500}
+            />
+          </SwiperSlide>
+                
         </Swiper>
       </div>
     </div>
